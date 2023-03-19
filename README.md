@@ -1,4 +1,4 @@
-### Hi, I'm Aakash 👋🧑🏻‍💻
+# Hi, I'm Aakash 👋🧑🏻‍💻
 
 Welcome to my GitHub! I'm a Software Developer based out of Chicago and currently enrolled in the Actualize bootcamp. I'm beginning my journey into the tech field but I've got a strong passion for coding and learning both front-end and back-end web development.<br>
 I'm currently working mainly with Ruby along with Rails architecture but will be diving into Javascript in the near future. Some interesting APIs I'm working on include:<br>
