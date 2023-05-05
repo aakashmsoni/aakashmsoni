@@ -1,7 +1,7 @@
 # Hi, I'm Aakash 👋🧑🏻‍💻
 <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQyMWY4MTFmZjUzYzhhM2U0ZjU5NzA1ZWE5MjQ3YjhmMTk5OTRiYiZjdD1n/3nddUmYn4qJfevDnk6/giphy.gif' alt="banner" width="800" height="280"></img><p>
 Welcome to my GitHub! I'm a Software Developer based out of Chicago and currently enrolled in the Actualize bootcamp. I'm beginning my journey into the tech field but I've got a strong passion for coding and learning both front-end and back-end web development.<br>
-I'm currently working mainly with Ruby along with Rails architecture but will be diving into Javascript in the near future. Some interesting APIs I'm working on include:<br>
+Current languagues I'm using include Ruby, JavaScript, HTML, CSS, along with Rails and React frameworks. Some interesting APIs I'm working on include:<br>
 - Keepr (calendar app)<br>
 - Twitter app clone<br>
 - NBA Trend Analyzer<br>
