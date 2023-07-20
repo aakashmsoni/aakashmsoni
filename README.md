@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a Software Developer based out of Chicago and a graduate of the Actualize coding bootcamp. I'm beginning my journey into the tech field but I've got a strong passion for coding and learning both front-end and back-end web development. When I'm not coding, you can find me on the beach playing volleyball or way outside of the city, camping underneath the stars. I'm a big sports fan and after having been to championship parades for both the Cubs and the Blackhawks, I'm hoping the next one will be for my Chicago Bulls 🤞 <br>
 Skills include Ruby, JavaScript, HTML, CSS, along with Rails and React frameworks. Some interesting projects I'm working on include:<br>
 - Happy Gamblr (sports bet log/global odds tracker)
-- Keepr (calendar-based diary)<br>
+- MyHistory (find out what historical events happened on your birthday!)<br>
 - NBA Trend Analyzer (statistics analyzer)<br>
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=aakashmsoni&theme=ayu-mirage&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashmsoni&theme=ayu-mirage)](https://github.com/aakashmsoni/github-readme-stats)<br><br>
